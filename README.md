@@ -28,6 +28,8 @@ Effective Communication & Team Collaboration
 
 # Tools
 
-[Redmine](https://www.redmine.org/)  Project Management and Bug Tracking
+[Redmine](https://www.redmine.org/) - Project Management and Bug Tracking
+[Postman](https://www.postman.com/) - Api Testing
+[MySQL](https://www.mysql.com/) - Database Testing
 
 
