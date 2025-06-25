@@ -15,8 +15,8 @@ This portfolio is a reflection of my journey so far—highlighting real-world pr
 Although my academic background is non-IT, it helped me develop strong discipline and attention to detail—qualities that have been essential in my QA work.
 
 # My Experience 
-Software Test Engineer
-Acme Infovision Systems Pvt. Ltd – Jul 2021 to Nov 2023
+**Software Test Engineer
+Acme Infovision Systems Pvt. Ltd – Jul 2021 to Nov 2023**
 
 Participated in daily stand-up meetings to discuss progress, blockers, and coordinate with cross-functional teams
 
