@@ -28,6 +28,6 @@ Effective Communication & Team Collaboration
 
 # Tools
 
-https://www.atlassian.com/pl/software/jira 
+[Redmine](https://www.redmine.org/)
 
 
