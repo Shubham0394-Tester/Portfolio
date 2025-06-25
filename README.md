@@ -1,7 +1,10 @@
 # Portfolio
 📍 Location: Pune, Maharashtra
+
 📧 Email: shubhamshirke777@gmail.com
+
 📞 Phone: +91 9405746197
+
 🔗 LinkedIn: linkedin.com/in/shubham-shirke-7a86b2103
 
 # About me
