@@ -26,6 +26,9 @@ Reported and tracked bugs using Redmine, collaborated closely with developers fo
 
 Effective Communication & Team Collaboration
 
+# Tools
+
+Jira, Trello - project management
 
 
 
