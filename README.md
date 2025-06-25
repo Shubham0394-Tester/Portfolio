@@ -10,8 +10,6 @@ I'm a Software Test Engineer with hands-on experience in testing desktop, mobile
 
 I enjoy making sure every product I test works smoothly, consistently, and exactly as intended. Recently, **I’ve expanded into test automation, working with tools like Selenium, Java, TestNG, and Cucumber (BDD) to enhance the speed and efficiency of testing.**
 
-This portfolio is a reflection of my journey so far—highlighting real-world projects, practical test cases, and the continuous learning that drives me. I'm excited to keep growing and contributing to impactful, quality-driven software development.
-
 Although my academic background is non-IT, it helped me develop strong discipline and attention to detail—qualities that have been essential in my QA work.
 
 # My Experience 
@@ -25,5 +23,9 @@ Tested Jewellery ERP software across web, desktop, and mobile platforms
 Designed and executed 1000+ test cases with comprehensive coverage
 
 Reported and tracked bugs using Redmine, collaborated closely with developers for quick resolution
+
+Effective Communication & Team Collaboration
+
+
 
 
