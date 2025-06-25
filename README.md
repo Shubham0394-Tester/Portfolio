@@ -40,7 +40,7 @@ Effective Communication & Team Collaboration
 # Example of my work
 
 A sample test case was created to verify the functionality of the 'Register User' feature, ensuring that a new user can successfully sign up by entering valid information and completing the registration process
-Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1IeQdD7SHdjZT-2e1Ew60EYI8GRAfuWCPZthPYpaCvU4/edit?usp=sharing)
+Check (Manual Test Case) [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1IeQdD7SHdjZT-2e1Ew60EYI8GRAfuWCPZthPYpaCvU4/edit?usp=sharing)
 
 
 
