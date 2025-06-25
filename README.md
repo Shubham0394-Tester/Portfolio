@@ -28,6 +28,6 @@ Effective Communication & Team Collaboration
 
 # Tools
 
-[Redmine](https://www.redmine.org/)
+[Redmine](https://www.redmine.org/)  Project Management and Bug Tracking
 
 
