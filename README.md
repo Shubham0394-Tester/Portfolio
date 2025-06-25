@@ -12,4 +12,18 @@ I enjoy making sure every product I test works smoothly, consistently, and exact
 
 This portfolio is a reflection of my journey so far—highlighting real-world projects, practical test cases, and the continuous learning that drives me. I'm excited to keep growing and contributing to impactful, quality-driven software development.
 
+Although my academic background is non-IT, it helped me develop strong discipline and attention to detail—qualities that have been essential in my QA work.
+
 # My Experience 
+Software Test Engineer
+Acme Infovision Systems Pvt. Ltd – Jul 2021 to Nov 2023
+
+Participated in daily stand-up meetings to discuss progress, blockers, and coordinate with cross-functional teams
+
+Tested Jewellery ERP software across web, desktop, and mobile platforms
+
+Designed and executed 1000+ test cases with comprehensive coverage
+
+Reported and tracked bugs using Redmine, collaborated closely with developers for quick resolution
+
+
