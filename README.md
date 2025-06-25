@@ -1,6 +1,6 @@
 # Portfolio
 👋 **Hi, I'm Shubham Shirke**
-I'm a Software Test Engineer with hands-on experience in testing desktop, mobile, and web applications. **Since 2021,** I’ve specialized in manual testing, including functional, UI, regression, smoke, and cross-browser testing, always with a strong focus on quality and user experience.
+I'm a Software Test Engineer with hands-on experience in testing desktop, mobile, and web applications. **Since 2021,** I’ve specialized in manual testing, including functional, UI, regression, retesting, smoke, sanity, and cross-browser testing, always with a strong focus on quality and user experience.
 
 I enjoy making sure every product I test works smoothly, consistently, and exactly as intended. Recently, **I’ve expanded into test automation, working with tools like Selenium, Java, TestNG, and Cucumber (BDD) to enhance the speed and efficiency of testing.**
 
