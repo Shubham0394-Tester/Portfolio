@@ -28,7 +28,6 @@ Effective Communication & Team Collaboration
 
 # Tools
 
-Jira, Trello - project management
-
+https://www.atlassian.com/pl/software/jira 
 
 
