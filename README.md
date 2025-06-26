@@ -19,15 +19,15 @@ Although my academic background is non-IT, it helped me develop strong disciplin
 **Software Test Engineer
 Acme Infovision Systems Pvt. Ltd – Jul 2021 to Nov 2023**
 
-Participated in daily stand-up meetings to discuss progress, blockers, and coordinate with cross-functional teams
+• Participated in daily stand-up meetings to discuss progress, blockers, and coordinate with cross-functional teams
 
-Tested Jewellery ERP software across web, desktop, and mobile platforms
+• Tested Jewellery ERP software across web, desktop, and mobile platforms
 
-Designed and executed 1000+ test cases with comprehensive coverage
+• Designed and executed 1000+ test cases with comprehensive coverage
 
-Reported and tracked bugs using Redmine, collaborated closely with developers for quick resolution
+• Reported and tracked bugs using Redmine, collaborated closely with developers for quick resolution
 
-Effective Communication & Team Collaboration
+• Effective Communication & Team Collaboration
 
 # Tools
 
@@ -45,7 +45,25 @@ Effective Communication & Team Collaboration
 
 [Teams](https://teams.live.com/free) - communication within the team
 
-# Example of my work
+# Skills
+
+You can find examples of the described skills in the [Examples of my work](# Examples of my work) section.
+
+**Manual Testing**
+
+• Proficient in performing **functional** and **usability** testing of **web, desktop, and mobile applications.**
+
+• Hands-on experience gained through real-world testing of applications including **Jewellery ERP software.**
+
+• Familiar with **cross-browser** and **cross-device testing** to ensure consistent user experience.
+
+**Test Analysis & Design**
+
+• Proficient in analyzing **application workflows** and **developing modular, maintainable test cases** for comprehensive testing.
+
+• Experienced in generating effective test data through techniques such as **equivalence partitioning, boundary value analysis, and pairwise testing** to maximize test coverage.
+
+# Examples of my work
 
 A sample test case was created to verify the functionality of the 'Register User' feature, ensuring that a new user can successfully sign up by entering valid information and completing the registration process
 Check (Manual Test Case) [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1IeQdD7SHdjZT-2e1Ew60EYI8GRAfuWCPZthPYpaCvU4/edit?usp=sharing)
