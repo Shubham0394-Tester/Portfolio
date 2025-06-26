@@ -37,6 +37,12 @@ Effective Communication & Team Collaboration
 
 [MySQL](https://www.mysql.com/) - Database Testing
 
+[Selenium](https://www.selenium.dev/)
+
+[Eclipse](https://www.eclipse.org/)
+
+[Cucumber](https://cucumber.io/)
+
 # Example of my work
 
 A sample test case was created to verify the functionality of the 'Register User' feature, ensuring that a new user can successfully sign up by entering valid information and completing the registration process
