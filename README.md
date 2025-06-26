@@ -43,3 +43,5 @@ A sample test case was created to verify the functionality of the 'Register User
 Check (Manual Test Case) [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1IeQdD7SHdjZT-2e1Ew60EYI8GRAfuWCPZthPYpaCvU4/edit?usp=sharing)
 
 A sample test case was created using the Cucumber framework to verify the functionality of the 'Login and Logout' features, ensuring that a user can successfully log in with valid credentials, appropriate error messages are displayed for invalid inputs, and the user is able to log out properly .Check [Cucumber Project](https://github.com/Shubham0394-Tester/CucumberProject)
+
+A sample test case was created using the TestNG framework to verify the functionality of the 'Products' page, ensuring that the user can successfully navigate to the products section, view detailed information of a selected product, and perform a product search with accurate results displayed based on the search input. Check [TestNG Project](https://github.com/Shubham0394-Tester/AutomationExerciseTestNG)
