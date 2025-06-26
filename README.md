@@ -47,7 +47,7 @@ Acme Infovision Systems Pvt. Ltd – Jul 2021 to Nov 2023**
 
 # Skills
 
-You can find examples of the described skills in the [Examples of my work](# Examples of my work) section.
+You can find examples of the described skills in the [Examples of my work](#Examples-of-my-work) section.
 
 **Manual Testing**
 
