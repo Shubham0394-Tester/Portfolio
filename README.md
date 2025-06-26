@@ -11,7 +11,7 @@
 👋 **Hi, I'm Shubham Shirke**
 I'm a Software Test Engineer with hands-on experience in testing desktop, mobile, and web applications. **Since 2021,** I’ve specialized in manual testing, including functional, UI, regression, retesting, smoke, sanity, and cross-browser testing, always with a strong focus on quality and user experience.**I have a strong understanding of STLC, SDLC, and a passion for delivering high-quality user experiences.**
 
-I enjoy making sure every product I test works smoothly, consistently, and exactly as intended. Recently, **I’ve expanded into test automation, working with tools like Selenium, Java, TestNG, and Cucumber (BDD) to enhance the speed and efficiency of testing.**
+I'm passionate about ensuring each application delivers a seamless and reliable user experience through thorough and thoughtful testing. Recently, **I’ve expanded into test automation, working with tools like Selenium, Java, TestNG, and Cucumber (BDD) to enhance the speed and efficiency of testing.**
 
 Although my academic background is non-IT, it helped me develop strong discipline and attention to detail—qualities that have been essential in my QA work.
 
@@ -37,11 +37,13 @@ Effective Communication & Team Collaboration
 
 [MySQL](https://www.mysql.com/) - Database Testing
 
-[Selenium](https://www.selenium.dev/)
+[Selenium](https://www.selenium.dev/) 
 
-[Eclipse](https://www.eclipse.org/)
+[Eclipse](https://www.eclipse.org/) - IDE for Java
 
-[Cucumber](https://cucumber.io/)
+[Cucumber](https://cucumber.io/) - BDD Framework
+
+[Teams](https://teams.live.com/free) - communication within the team
 
 # Example of my work
 
