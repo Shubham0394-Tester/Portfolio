@@ -66,7 +66,7 @@ You can view my skills through the demo projects shared in [Examples of my work]
 # Examples of my work
 
 A sample test case was created to verify the functionality of the 'Register User' feature, ensuring that a new user can successfully sign up by entering valid information and completing the registration process
-Check (Manual Test Case) [Test case sheet](https://github.com/Shubham0394-Tester/Portfolio/blob/main/Automation%20Practice%20Website%20Sample.xlsx)
+Check (Manual Test Case) [Download Testcase.xlsx](https://github.com/Shubham0394-Tester/Portfolio/blob/main/Automation%20Practice%20Website%20Sample.xlsx)
 
 A sample test case was created using the Cucumber framework to verify the functionality of the 'Login and Logout' features, ensuring that a user can successfully log in with valid credentials, appropriate error messages are displayed for invalid inputs, and the user is able to log out properly .Check [Cucumber Project](https://github.com/Shubham0394-Tester/CucumberProject)
 
